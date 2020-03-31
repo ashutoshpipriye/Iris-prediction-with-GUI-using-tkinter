@@ -7,3 +7,7 @@ Pandas
 Scikit-learn
 
 tkinter 
+
+<h2>Output : </h2>
+
+![](Iris.png)
