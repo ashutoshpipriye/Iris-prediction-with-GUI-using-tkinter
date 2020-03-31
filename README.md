@@ -1,5 +1,5 @@
 # Iris-prediction-with-GUI-using-tkinter
-
+The dataset is provided in the file so you can download it.
 The libraries which we will be needed are:
 
 Pandas
